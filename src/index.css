@@ -1,0 +1,43 @@
+.main-color {
+    background-color: #2C3E50;
+}
+
+.font-color {
+    color: white !important;;
+}
+
+.active {
+    color: white !important; /* Change to desired color */
+    background-color: #1abc9c;
+    border-radius: 10%;
+}
+
+.icon {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.footer {
+    background-color: #1A252F;
+}
+
+.about {
+    background-color: #1ABC9C !important;
+    border-color: #1ABC9C !important;
+}
+
+.lines {
+    background-color: white;
+    height: 4px;
+    width: 80px;
+}
+
+.contact-lines {
+    background-color: rgb(44, 62, 80);
+    height: 4px;
+    width: 80px;
+}
+.margin-top {
+    margin-top: 120px;
+}
