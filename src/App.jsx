@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Layout from './components/Layout/Layout'
 import About from './components/About/About'
 import Contact from './components/Contact/Contact'
-import PortFolio from './components/PortFolio/PortFolio'
+import PortFolio from './components/Portfolio/Portfolio'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
 const router = createBrowserRouter([
